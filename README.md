@@ -4,18 +4,17 @@ DILI database development
 
 Extraction, curation and integration of Biologics clinical data; creating a SQL database and developing a web application for accessing data to build a predictive model for drug induced liver injury 
 
-Any reviewer or researcher interested in pre-clinical data elements associated with drug induced liver injury in biologics can access the data by creating an account and using the web application developed in this project.
+Any reviewer or researcher within CDER interested in pre-clinical data elements associated with drug induced liver injury in biologics can access the data by creating an account and using the web application developed in this project.
 
 ## Installing / Getting started
 
-A quick introduction of the minimal setup you need to get a hello world up &
+A quick introduction of the minimal setup you need to get up &
 running.
 
-```shell
-packagemanager install awesome-project
-awesome-project start
-awesome-project "Do something!"  # prints "Nah."
-```
+- Python 2.7.11 or latest version
+- Pandas, os, fnmatch, xlrd, difflib, re, odo
+
+
 
 Here you should say what actually happens when you execute the code above.
 
